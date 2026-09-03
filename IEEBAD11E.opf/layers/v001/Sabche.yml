@@ -1,0 +1,70 @@
+id: fe9c396456354803aeb0e5739d1c905d
+annotation_type: Sabche
+revision: '00001'
+annotations:
+  521fe68111824b0ca52c23f8037b83c0:
+    span:
+      start: 172
+      end: 423
+  0a66c670cc6e4467aa8bbaba9f2d21a8:
+    span:
+      start: 454
+      end: 494
+  67f123d50cff433d99d7cb0b366e7113:
+    span:
+      start: 1372
+      end: 1465
+  1b86aad5e46047bfb34e4ef6384faaf4:
+    span:
+      start: 1538
+      end: 1629
+  c4773525aed4427b8b5b84e93f6e70ea:
+    span:
+      start: 1701
+      end: 1785
+  3a7b678291464046a791c4d9d757a1ae:
+    span:
+      start: 1852
+      end: 1942
+  f963e1c6c39c473980e947a7af1d648a:
+    span:
+      start: 2008
+      end: 2093
+  ba6264fee78e415db83510d0d5a1ab4b:
+    span:
+      start: 2163
+      end: 2248
+  bda9b76fc90545c99c2f4fd7e68cb452:
+    span:
+      start: 2317
+      end: 2404
+  4f5e03d074434b25b66f4747ee187db2:
+    span:
+      start: 2472
+      end: 2610
+  0725c9ceb1e34f99adcea33ff4adfe92:
+    span:
+      start: 2711
+      end: 2847
+  ceab50b4d0584f388f64e56bd8aa1725:
+    span:
+      start: 2950
+      end: 3068
+  587750e7712b49f6a03aaa568d8e269e:
+    span:
+      start: 3093
+      end: 3116
+local_ids:
+  521fe68111824b0ca52c23f8037b83c0: 200000
+  0a66c670cc6e4467aa8bbaba9f2d21a8: 200001
+  67f123d50cff433d99d7cb0b366e7113: 200002
+  1b86aad5e46047bfb34e4ef6384faaf4: 200003
+  c4773525aed4427b8b5b84e93f6e70ea: 200004
+  3a7b678291464046a791c4d9d757a1ae: 200005
+  f963e1c6c39c473980e947a7af1d648a: 200006
+  ba6264fee78e415db83510d0d5a1ab4b: 200007
+  bda9b76fc90545c99c2f4fd7e68cb452: 200008
+  4f5e03d074434b25b66f4747ee187db2: 200009
+  0725c9ceb1e34f99adcea33ff4adfe92: 200010
+  ceab50b4d0584f388f64e56bd8aa1725: 200011
+  587750e7712b49f6a03aaa568d8e269e: 200012

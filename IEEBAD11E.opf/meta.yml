@@ -1,0 +1,24 @@
+id: IEEBAD11E
+initial_creation_type: ebook
+source_metadata:
+  id: KHA-DO-17
+  title: ཉི་འོད་ལ་གདམས་པ།
+  author: མཛད་པ་པོ། ཇོ་ནང་ཀུན་མཁྱེན་དོལ་པོ་སངས་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཇོ་ནང་ཀུན་མཁྱེན་དོལ་པོ་སངས་རྒྱས།
+  sku: KHA-DO-17
+  cover: KHA-DO-17.jpg
+  volume: {}
+ebook_metadata:
+  title: ཉི་འོད་ལ་གདམས་པ།
+  authors: *id001
+  sku: KHA-DO-17
+  cover: KHA-DO-17.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
